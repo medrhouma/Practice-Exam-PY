@@ -1,4 +1,4 @@
-🎬 Movie Explorer
+##🎬 Movie Explorer
 
 Une application full-stack qui permet d’explorer des films au hasard et de générer des résumés grâce à l’intelligence artificielle.
 
